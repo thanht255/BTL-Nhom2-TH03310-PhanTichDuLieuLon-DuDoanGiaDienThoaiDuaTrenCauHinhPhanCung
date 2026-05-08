@@ -1,1 +1,1 @@
-Dữ liệu sử dụng:https://www.kaggle.com/code/vikramb/mobile-price-prediction/notebook
+Dữ liệu sử dụng: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
